@@ -169,4 +169,3 @@ GitHub
 
 ---
 
-If you'd like this exported as a downloadable `.md` file or want a shorter version for LinkedIn or your website, just say the word!
